@@ -1,6 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Shadcn/ui Crash Course
+
+This repo was used in the shadcn/ui crash course video on YouTube where we build out an ecommerce landing page.
+
+<!-- embed youtube in github readme  -->
+[![shadcn/ui Crash Course](https://img.youtube.com/vi/DTGRIaAJYIo/0.jpg)](https://www.youtube.com/watch?v=DTGRIaAJYIo)
+
+Discover the power of shadcn/ui, a collection of reusable React components that revolutionize CSS styling in this comprehensive tutorial. Learn how to build an amazing UI in just minutes. Explore the combination of Radix UI and Tailwind CSS, and how shadcn/ui supports server-side rendering, dark mode, and themes.
+
+This video covers:
+
+- Ease of Use: Copy and paste components or use the CLI for setup.
+- Integration with Radix & Tailwind: Unstyled, accessible components with utility-first CSS.
+- Installation Guides: Step-by-step setup in Astro, Vite, Gatsby, Remix, and Next.js 13.4.
+- Application Build: Build an e-commerce storefront with shadcn, inspired by  @codewithantonio . 
+- Accessibility & Customization: Full keyboard navigation, assistive technology support, and more.
+- Themes & Dark Mode: Choose from predefined themes and enjoy TypeScript support.
+
+Shadcn/ui is not just a trend; it's a game-changer in web development. Whether you're a beginner or an expert, this video will guide you through the process of creating a visually appealing and fully functional application. Try shadcn in your next project and experience the ease and flexibility it offers. Don't forget to like and subscribe for more content like this!
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -13,22 +33,3 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
